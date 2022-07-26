@@ -119,7 +119,6 @@
 | [787A - The Monster](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1051)| [Solution](<787A - The Monster/main.cpp>) |
 | [791A - Bear and Big Brother](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1051)| [Solution](<791A - Bear and Big Brother/791A - Bear and Big Brother.cpp>) |
 | [Simple Equations](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1051)| [Solution](<Simple Equations/main.cpp>) |
-| [UVA-10110](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1051)| [Solution](<UVA-10110/main.cpp>) |
 | [102B - Sum of Digits](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1051)| [Solution](<102B - Sum of Digits/main.cpp>) |
 | [112A - Petya and Strings](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1051)| [Solution](<112A - Petya and Strings/main.cpp>) |
 | [1141A - Game 23](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1051)| [Solution](<1141A - Game 23/main.cpp>) |
@@ -159,7 +158,6 @@
 | [791A - Bear and Big Brother](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1051)| [Solution](<791A - Bear and Big Brother/main.cpp>) |
 | [Simple Equations](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1051)| [Solution](<Simple Equations/main.cpp>) |
 | [UVA - 10110 - Light more light](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1051)| [Solution](<UVA - 10110 - Light more light/main.cpp>) |
-| [UVA-10110](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1051)| [Solution](<UVA-10110/main.cpp>) |
 | [102B - Sum of Digits](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=1047)| [Solution](<102B - Sum of Digits/main.cpp>) |
 | [112A - Petya and Strings](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=1047)| [Solution](<112A - Petya and Strings/main.cpp>) |
 | [1141A - Game 23](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=1047)| [Solution](<1141A - Game 23/main.cpp>) |
@@ -200,7 +198,6 @@
 | [Simple Equations](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=1047)| [Solution](<Simple Equations/main.cpp>) |
 | [UVA - 10106 - Product](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=1047)| [Solution](<UVA - 10106 - Product/main.cpp>) |
 | [UVA - 10110 - Light more light](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=1047)| [Solution](<UVA - 10110 - Light more light/main.cpp>) |
-| [UVA-10110](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=1047)| [Solution](<UVA-10110/main.cpp>) |
 | [102B - Sum of Digits](https://codeforces.com/contest/770/problem/A)| [Solution](<102B - Sum of Digits/main.cpp>) |
 | [112A - Petya and Strings](https://codeforces.com/contest/770/problem/A)| [Solution](<112A - Petya and Strings/main.cpp>) |
 | [1141A - Game 23](https://codeforces.com/contest/770/problem/A)| [Solution](<1141A - Game 23/main.cpp>) |
@@ -242,7 +239,6 @@
 | [Simple Equations](https://codeforces.com/contest/770/problem/A)| [Solution](<Simple Equations/main.cpp>) |
 | [UVA - 10106 - Product](https://codeforces.com/contest/770/problem/A)| [Solution](<UVA - 10106 - Product/main.cpp>) |
 | [UVA - 10110 - Light more light](https://codeforces.com/contest/770/problem/A)| [Solution](<UVA - 10110 - Light more light/main.cpp>) |
-| [UVA-10110](https://codeforces.com/contest/770/problem/A)| [Solution](<UVA-10110/main.cpp>) |
 | [102B - Sum of Digits](https://codeforces.com/contest/1702/problem/A)| [Solution](<102B - Sum of Digits/main.cpp>) |
 | [112A - Petya and Strings](https://codeforces.com/contest/1702/problem/A)| [Solution](<112A - Petya and Strings/main.cpp>) |
 | [1141A - Game 23](https://codeforces.com/contest/1702/problem/A)| [Solution](<1141A - Game 23/main.cpp>) |
@@ -285,7 +281,6 @@
 | [Simple Equations](https://codeforces.com/contest/1702/problem/A)| [Solution](<Simple Equations/main.cpp>) |
 | [UVA - 10106 - Product](https://codeforces.com/contest/1702/problem/A)| [Solution](<UVA - 10106 - Product/main.cpp>) |
 | [UVA - 10110 - Light more light](https://codeforces.com/contest/1702/problem/A)| [Solution](<UVA - 10110 - Light more light/main.cpp>) |
-| [UVA-10110](https://codeforces.com/contest/1702/problem/A)| [Solution](<UVA-10110/main.cpp>) |
 | [102B - Sum of Digits](https://codeforces.com/contest/1702/problem/B)| [Solution](<102B - Sum of Digits/main.cpp>) |
 | [112A - Petya and Strings](https://codeforces.com/contest/1702/problem/B)| [Solution](<112A - Petya and Strings/main.cpp>) |
 | [1141A - Game 23](https://codeforces.com/contest/1702/problem/B)| [Solution](<1141A - Game 23/main.cpp>) |
@@ -329,7 +324,6 @@
 | [Simple Equations](https://codeforces.com/contest/1702/problem/B)| [Solution](<Simple Equations/main.cpp>) |
 | [UVA - 10106 - Product](https://codeforces.com/contest/1702/problem/B)| [Solution](<UVA - 10106 - Product/main.cpp>) |
 | [UVA - 10110 - Light more light](https://codeforces.com/contest/1702/problem/B)| [Solution](<UVA - 10110 - Light more light/main.cpp>) |
-| [UVA-10110](https://codeforces.com/contest/1702/problem/B)| [Solution](<UVA-10110/main.cpp>) |
 | [102B - Sum of Digits](https://codeforces.com/contest/1702/problem/C)| [Solution](<102B - Sum of Digits/main.cpp>) |
 | [112A - Petya and Strings](https://codeforces.com/contest/1702/problem/C)| [Solution](<112A - Petya and Strings/main.cpp>) |
 | [1141A - Game 23](https://codeforces.com/contest/1702/problem/C)| [Solution](<1141A - Game 23/main.cpp>) |
@@ -374,7 +368,6 @@
 | [Simple Equations](https://codeforces.com/contest/1702/problem/C)| [Solution](<Simple Equations/main.cpp>) |
 | [UVA - 10106 - Product](https://codeforces.com/contest/1702/problem/C)| [Solution](<UVA - 10106 - Product/main.cpp>) |
 | [UVA - 10110 - Light more light](https://codeforces.com/contest/1702/problem/C)| [Solution](<UVA - 10110 - Light more light/main.cpp>) |
-| [UVA-10110](https://codeforces.com/contest/1702/problem/C)| [Solution](<UVA-10110/main.cpp>) |
 | [102B - Sum of Digits](https://codeforces.com/contest/16/problem/B)| [Solution](<102B - Sum of Digits/main.cpp>) |
 | [112A - Petya and Strings](https://codeforces.com/contest/16/problem/B)| [Solution](<112A - Petya and Strings/main.cpp>) |
 | [1141A - Game 23](https://codeforces.com/contest/16/problem/B)| [Solution](<1141A - Game 23/main.cpp>) |
@@ -418,9 +411,6 @@
 | [787A - The Monster](https://codeforces.com/contest/16/problem/B)| [Solution](<787A - The Monster/main.cpp>) |
 | [791A - Bear and Big Brother](https://codeforces.com/contest/16/problem/B)| [Solution](<791A - Bear and Big Brother/main.cpp>) |
 | [Simple Equations](https://codeforces.com/contest/16/problem/B)| [Solution](<Simple Equations/main.cpp>) |
-| [UVA - 10106 - Product](https://codeforces.com/contest/16/problem/B)| [Solution](<UVA - 10106 - Product/main.cpp>) |
-| [UVA - 10110 - Light more light](https://codeforces.com/contest/16/problem/B)| [Solution](<UVA - 10110 - Light more light/main.cpp>) |
-| [UVA-10110](https://codeforces.com/contest/16/problem/B)| [Solution](<UVA-10110/main.cpp>) |
 | [102B - Sum of Digits](https://codeforces.com/contest/463/problem/B)| [Solution](<102B - Sum of Digits/main.cpp>) |
 | [112A - Petya and Strings](https://codeforces.com/contest/463/problem/B)| [Solution](<112A - Petya and Strings/main.cpp>) |
 | [1141A - Game 23](https://codeforces.com/contest/463/problem/B)| [Solution](<1141A - Game 23/main.cpp>) |
@@ -465,9 +455,6 @@
 | [787A - The Monster](https://codeforces.com/contest/463/problem/B)| [Solution](<787A - The Monster/main.cpp>) |
 | [791A - Bear and Big Brother](https://codeforces.com/contest/463/problem/B)| [Solution](<791A - Bear and Big Brother/main.cpp>) |
 | [Simple Equations](https://codeforces.com/contest/463/problem/B)| [Solution](<Simple Equations/main.cpp>) |
-| [UVA - 10106 - Product](https://codeforces.com/contest/463/problem/B)| [Solution](<UVA - 10106 - Product/main.cpp>) |
-| [UVA - 10110 - Light more light](https://codeforces.com/contest/463/problem/B)| [Solution](<UVA - 10110 - Light more light/main.cpp>) |
-| [UVA-10110](https://codeforces.com/contest/463/problem/B)| [Solution](<UVA-10110/main.cpp>) |
 | [102B - Sum of Digits](https://codeforces.com/contest/47/problem/B)| [Solution](<102B - Sum of Digits/main.cpp>) |
 | [112A - Petya and Strings](https://codeforces.com/contest/47/problem/B)| [Solution](<112A - Petya and Strings/main.cpp>) |
 | [1141A - Game 23](https://codeforces.com/contest/47/problem/B)| [Solution](<1141A - Game 23/main.cpp>) |
@@ -512,10 +499,6 @@
 | [770A - New Password](https://codeforces.com/contest/47/problem/B)| [Solution](<770A - New Password/main.cpp>) |
 | [787A - The Monster](https://codeforces.com/contest/47/problem/B)| [Solution](<787A - The Monster/main.cpp>) |
 | [791A - Bear and Big Brother](https://codeforces.com/contest/47/problem/B)| [Solution](<791A - Bear and Big Brother/main.cpp>) |
-| [Simple Equations](https://codeforces.com/contest/47/problem/B)| [Solution](<Simple Equations/main.cpp>) |
-| [UVA - 10106 - Product](https://codeforces.com/contest/47/problem/B)| [Solution](<UVA - 10106 - Product/main.cpp>) |
-| [UVA - 10110 - Light more light](https://codeforces.com/contest/47/problem/B)| [Solution](<UVA - 10110 - Light more light/main.cpp>) |
-| [UVA-10110](https://codeforces.com/contest/47/problem/B)| [Solution](<UVA-10110/main.cpp>) |
 | [102B - Sum of Digits](https://codeforces.com/contest/227/problem/B)| [Solution](<102B - Sum of Digits/main.cpp>) |
 | [112A - Petya and Strings](https://codeforces.com/contest/227/problem/B)| [Solution](<112A - Petya and Strings/main.cpp>) |
 | [1141A - Game 23](https://codeforces.com/contest/227/problem/B)| [Solution](<1141A - Game 23/main.cpp>) |
@@ -561,10 +544,6 @@
 | [770A - New Password](https://codeforces.com/contest/227/problem/B)| [Solution](<770A - New Password/main.cpp>) |
 | [787A - The Monster](https://codeforces.com/contest/227/problem/B)| [Solution](<787A - The Monster/main.cpp>) |
 | [791A - Bear and Big Brother](https://codeforces.com/contest/227/problem/B)| [Solution](<791A - Bear and Big Brother/main.cpp>) |
-| [Simple Equations](https://codeforces.com/contest/227/problem/B)| [Solution](<Simple Equations/main.cpp>) |
-| [UVA - 10106 - Product](https://codeforces.com/contest/227/problem/B)| [Solution](<UVA - 10106 - Product/main.cpp>) |
-| [UVA - 10110 - Light more light](https://codeforces.com/contest/227/problem/B)| [Solution](<UVA - 10110 - Light more light/main.cpp>) |
-| [UVA-10110](https://codeforces.com/contest/227/problem/B)| [Solution](<UVA-10110/main.cpp>) |
 | [102B - Sum of Digits](https://codeforces.com/contest/78/problem/B)| [Solution](<102B - Sum of Digits/main.cpp>) |
 | [112A - Petya and Strings](https://codeforces.com/contest/78/problem/B)| [Solution](<112A - Petya and Strings/main.cpp>) |
 | [1141A - Game 23](https://codeforces.com/contest/78/problem/B)| [Solution](<1141A - Game 23/main.cpp>) |
@@ -611,10 +590,6 @@
 | [787A - The Monster](https://codeforces.com/contest/78/problem/B)| [Solution](<787A - The Monster/main.cpp>) |
 | [78B - Easter Eggs](https://codeforces.com/contest/78/problem/B)| [Solution](<78B - Easter Eggs/main.cpp>) |
 | [791A - Bear and Big Brother](https://codeforces.com/contest/78/problem/B)| [Solution](<791A - Bear and Big Brother/main.cpp>) |
-| [Simple Equations](https://codeforces.com/contest/78/problem/B)| [Solution](<Simple Equations/main.cpp>) |
-| [UVA - 10106 - Product](https://codeforces.com/contest/78/problem/B)| [Solution](<UVA - 10106 - Product/main.cpp>) |
-| [UVA - 10110 - Light more light](https://codeforces.com/contest/78/problem/B)| [Solution](<UVA - 10110 - Light more light/main.cpp>) |
-| [UVA-10110](https://codeforces.com/contest/78/problem/B)| [Solution](<UVA-10110/main.cpp>) |
 | [102B - Sum of Digits](http://codeforces.com/contest/6/problem/B)| [Solution](<102B - Sum of Digits/main.cpp>) |
 | [112A - Petya and Strings](http://codeforces.com/contest/6/problem/B)| [Solution](<112A - Petya and Strings/main.cpp>) |
 | [1141A - Game 23](http://codeforces.com/contest/6/problem/B)| [Solution](<1141A - Game 23/main.cpp>) |
@@ -662,10 +637,6 @@
 | [787A - The Monster](http://codeforces.com/contest/6/problem/B)| [Solution](<787A - The Monster/main.cpp>) |
 | [78B - Easter Eggs](http://codeforces.com/contest/6/problem/B)| [Solution](<78B - Easter Eggs/main.cpp>) |
 | [791A - Bear and Big Brother](http://codeforces.com/contest/6/problem/B)| [Solution](<791A - Bear and Big Brother/main.cpp>) |
-| [Simple Equations](http://codeforces.com/contest/6/problem/B)| [Solution](<Simple Equations/main.cpp>) |
-| [UVA - 10106 - Product](http://codeforces.com/contest/6/problem/B)| [Solution](<UVA - 10106 - Product/main.cpp>) |
-| [UVA - 10110 - Light more light](http://codeforces.com/contest/6/problem/B)| [Solution](<UVA - 10110 - Light more light/main.cpp>) |
-| [UVA-10110](http://codeforces.com/contest/6/problem/B)| [Solution](<UVA-10110/main.cpp>) |
 | [102B - Sum of Digits](https://codeforces.com/contest/451/problem/B)| [Solution](<102B - Sum of Digits/main.cpp>) |
 | [112A - Petya and Strings](https://codeforces.com/contest/451/problem/B)| [Solution](<112A - Petya and Strings/main.cpp>) |
 | [1141A - Game 23](https://codeforces.com/contest/451/problem/B)| [Solution](<1141A - Game 23/main.cpp>) |
@@ -713,9 +684,6 @@
 | [787A - The Monster](https://codeforces.com/contest/451/problem/B)| [Solution](<787A - The Monster/main.cpp>) |
 | [78B - Easter Eggs](https://codeforces.com/contest/451/problem/B)| [Solution](<78B - Easter Eggs/main.cpp>) |
 | [791A - Bear and Big Brother](https://codeforces.com/contest/451/problem/B)| [Solution](<791A - Bear and Big Brother/main.cpp>) |
-| [Simple Equations](https://codeforces.com/contest/451/problem/B)| [Solution](<Simple Equations/main.cpp>) |
-| [UVA - 10106 - Product](https://codeforces.com/contest/451/problem/B)| [Solution](<UVA - 10106 - Product/main.cpp>) |
-| [UVA - 10110 - Light more light](https://codeforces.com/contest/451/problem/B)| [Solution](<UVA - 10110 - Light more light/main.cpp>) |
 | [102B - Sum of Digits](http://codeforces.com/contest/567/problem/A)| [Solution](<102B - Sum of Digits/main.cpp>) |
 | [112A - Petya and Strings](http://codeforces.com/contest/567/problem/A)| [Solution](<112A - Petya and Strings/main.cpp>) |
 | [1141A - Game 23](http://codeforces.com/contest/567/problem/A)| [Solution](<1141A - Game 23/main.cpp>) |
@@ -764,6 +732,3 @@
 | [787A - The Monster](http://codeforces.com/contest/567/problem/A)| [Solution](<787A - The Monster/main.cpp>) |
 | [78B - Easter Eggs](http://codeforces.com/contest/567/problem/A)| [Solution](<78B - Easter Eggs/main.cpp>) |
 | [791A - Bear and Big Brother](http://codeforces.com/contest/567/problem/A)| [Solution](<791A - Bear and Big Brother/main.cpp>) |
-| [Simple Equations](http://codeforces.com/contest/567/problem/A)| [Solution](<Simple Equations/main.cpp>) |
-| [UVA - 10106 - Product](http://codeforces.com/contest/567/problem/A)| [Solution](<UVA - 10106 - Product/main.cpp>) |
-| [UVA - 10110 - Light more light](http://codeforces.com/contest/567/problem/A)| [Solution](<UVA - 10110 - Light more light/main.cpp>) |
