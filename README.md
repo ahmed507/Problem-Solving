@@ -236,9 +236,6 @@
 | [770A - New Password](https://codeforces.com/contest/770/problem/A)| [Solution](<770A - New Password/main.cpp>) |
 | [787A - The Monster](https://codeforces.com/contest/770/problem/A)| [Solution](<787A - The Monster/main.cpp>) |
 | [791A - Bear and Big Brother](https://codeforces.com/contest/770/problem/A)| [Solution](<791A - Bear and Big Brother/main.cpp>) |
-| [Simple Equations](https://codeforces.com/contest/770/problem/A)| [Solution](<Simple Equations/main.cpp>) |
-| [UVA - 10106 - Product](https://codeforces.com/contest/770/problem/A)| [Solution](<UVA - 10106 - Product/main.cpp>) |
-| [UVA - 10110 - Light more light](https://codeforces.com/contest/770/problem/A)| [Solution](<UVA - 10110 - Light more light/main.cpp>) |
 | [102B - Sum of Digits](https://codeforces.com/contest/1702/problem/A)| [Solution](<102B - Sum of Digits/main.cpp>) |
 | [112A - Petya and Strings](https://codeforces.com/contest/1702/problem/A)| [Solution](<112A - Petya and Strings/main.cpp>) |
 | [1141A - Game 23](https://codeforces.com/contest/1702/problem/A)| [Solution](<1141A - Game 23/main.cpp>) |
@@ -278,9 +275,6 @@
 | [770A - New Password](https://codeforces.com/contest/1702/problem/A)| [Solution](<770A - New Password/main.cpp>) |
 | [787A - The Monster](https://codeforces.com/contest/1702/problem/A)| [Solution](<787A - The Monster/main.cpp>) |
 | [791A - Bear and Big Brother](https://codeforces.com/contest/1702/problem/A)| [Solution](<791A - Bear and Big Brother/main.cpp>) |
-| [Simple Equations](https://codeforces.com/contest/1702/problem/A)| [Solution](<Simple Equations/main.cpp>) |
-| [UVA - 10106 - Product](https://codeforces.com/contest/1702/problem/A)| [Solution](<UVA - 10106 - Product/main.cpp>) |
-| [UVA - 10110 - Light more light](https://codeforces.com/contest/1702/problem/A)| [Solution](<UVA - 10110 - Light more light/main.cpp>) |
 | [102B - Sum of Digits](https://codeforces.com/contest/1702/problem/B)| [Solution](<102B - Sum of Digits/main.cpp>) |
 | [112A - Petya and Strings](https://codeforces.com/contest/1702/problem/B)| [Solution](<112A - Petya and Strings/main.cpp>) |
 | [1141A - Game 23](https://codeforces.com/contest/1702/problem/B)| [Solution](<1141A - Game 23/main.cpp>) |
@@ -321,9 +315,6 @@
 | [770A - New Password](https://codeforces.com/contest/1702/problem/B)| [Solution](<770A - New Password/main.cpp>) |
 | [787A - The Monster](https://codeforces.com/contest/1702/problem/B)| [Solution](<787A - The Monster/main.cpp>) |
 | [791A - Bear and Big Brother](https://codeforces.com/contest/1702/problem/B)| [Solution](<791A - Bear and Big Brother/main.cpp>) |
-| [Simple Equations](https://codeforces.com/contest/1702/problem/B)| [Solution](<Simple Equations/main.cpp>) |
-| [UVA - 10106 - Product](https://codeforces.com/contest/1702/problem/B)| [Solution](<UVA - 10106 - Product/main.cpp>) |
-| [UVA - 10110 - Light more light](https://codeforces.com/contest/1702/problem/B)| [Solution](<UVA - 10110 - Light more light/main.cpp>) |
 | [102B - Sum of Digits](https://codeforces.com/contest/1702/problem/C)| [Solution](<102B - Sum of Digits/main.cpp>) |
 | [112A - Petya and Strings](https://codeforces.com/contest/1702/problem/C)| [Solution](<112A - Petya and Strings/main.cpp>) |
 | [1141A - Game 23](https://codeforces.com/contest/1702/problem/C)| [Solution](<1141A - Game 23/main.cpp>) |
@@ -365,9 +356,6 @@
 | [770A - New Password](https://codeforces.com/contest/1702/problem/C)| [Solution](<770A - New Password/main.cpp>) |
 | [787A - The Monster](https://codeforces.com/contest/1702/problem/C)| [Solution](<787A - The Monster/main.cpp>) |
 | [791A - Bear and Big Brother](https://codeforces.com/contest/1702/problem/C)| [Solution](<791A - Bear and Big Brother/main.cpp>) |
-| [Simple Equations](https://codeforces.com/contest/1702/problem/C)| [Solution](<Simple Equations/main.cpp>) |
-| [UVA - 10106 - Product](https://codeforces.com/contest/1702/problem/C)| [Solution](<UVA - 10106 - Product/main.cpp>) |
-| [UVA - 10110 - Light more light](https://codeforces.com/contest/1702/problem/C)| [Solution](<UVA - 10110 - Light more light/main.cpp>) |
 | [102B - Sum of Digits](https://codeforces.com/contest/16/problem/B)| [Solution](<102B - Sum of Digits/main.cpp>) |
 | [112A - Petya and Strings](https://codeforces.com/contest/16/problem/B)| [Solution](<112A - Petya and Strings/main.cpp>) |
 | [1141A - Game 23](https://codeforces.com/contest/16/problem/B)| [Solution](<1141A - Game 23/main.cpp>) |
@@ -410,7 +398,6 @@
 | [770A - New Password](https://codeforces.com/contest/16/problem/B)| [Solution](<770A - New Password/main.cpp>) |
 | [787A - The Monster](https://codeforces.com/contest/16/problem/B)| [Solution](<787A - The Monster/main.cpp>) |
 | [791A - Bear and Big Brother](https://codeforces.com/contest/16/problem/B)| [Solution](<791A - Bear and Big Brother/main.cpp>) |
-| [Simple Equations](https://codeforces.com/contest/16/problem/B)| [Solution](<Simple Equations/main.cpp>) |
 | [102B - Sum of Digits](https://codeforces.com/contest/463/problem/B)| [Solution](<102B - Sum of Digits/main.cpp>) |
 | [112A - Petya and Strings](https://codeforces.com/contest/463/problem/B)| [Solution](<112A - Petya and Strings/main.cpp>) |
 | [1141A - Game 23](https://codeforces.com/contest/463/problem/B)| [Solution](<1141A - Game 23/main.cpp>) |
@@ -454,7 +441,6 @@
 | [770A - New Password](https://codeforces.com/contest/463/problem/B)| [Solution](<770A - New Password/main.cpp>) |
 | [787A - The Monster](https://codeforces.com/contest/463/problem/B)| [Solution](<787A - The Monster/main.cpp>) |
 | [791A - Bear and Big Brother](https://codeforces.com/contest/463/problem/B)| [Solution](<791A - Bear and Big Brother/main.cpp>) |
-| [Simple Equations](https://codeforces.com/contest/463/problem/B)| [Solution](<Simple Equations/main.cpp>) |
 | [102B - Sum of Digits](https://codeforces.com/contest/47/problem/B)| [Solution](<102B - Sum of Digits/main.cpp>) |
 | [112A - Petya and Strings](https://codeforces.com/contest/47/problem/B)| [Solution](<112A - Petya and Strings/main.cpp>) |
 | [1141A - Game 23](https://codeforces.com/contest/47/problem/B)| [Solution](<1141A - Game 23/main.cpp>) |
@@ -732,3 +718,101 @@
 | [787A - The Monster](http://codeforces.com/contest/567/problem/A)| [Solution](<787A - The Monster/main.cpp>) |
 | [78B - Easter Eggs](http://codeforces.com/contest/567/problem/A)| [Solution](<78B - Easter Eggs/main.cpp>) |
 | [791A - Bear and Big Brother](http://codeforces.com/contest/567/problem/A)| [Solution](<791A - Bear and Big Brother/main.cpp>) |
+| [102B - Sum of Digits](https://codeforces.com/contest/810/problem/B)| [Solution](<102B - Sum of Digits/main.cpp>) |
+| [112A - Petya and Strings](https://codeforces.com/contest/810/problem/B)| [Solution](<112A - Petya and Strings/main.cpp>) |
+| [1141A - Game 23](https://codeforces.com/contest/810/problem/B)| [Solution](<1141A - Game 23/main.cpp>) |
+| [121A - Lucky Sum](https://codeforces.com/contest/810/problem/B)| [Solution](<121A - Lucky Sum/main.cpp>) |
+| [1362B - Johnny and His Hobbies](https://codeforces.com/contest/810/problem/B)| [Solution](<1362B - Johnny and His Hobbies/main.cpp>) |
+| [152B - Steps](https://codeforces.com/contest/810/problem/B)| [Solution](<152B - Steps/main.cpp>) |
+| [1543B - Customising the Track](https://codeforces.com/contest/810/problem/B)| [Solution](<1543B - Customising the Track/main.cpp>) |
+| [160B - Unlucky Ticket](https://codeforces.com/contest/810/problem/B)| [Solution](<160B - Unlucky Ticket/main.cpp>) |
+| [1617B - GCD Problem](https://codeforces.com/contest/810/problem/B)| [Solution](<1617B - GCD Problem/main.cpp>) |
+| [16B - Burglar and Matches](https://codeforces.com/contest/810/problem/B)| [Solution](<16B - Burglar and Matches/main.cpp>) |
+| [1702A - Round Down the Price](https://codeforces.com/contest/810/problem/B)| [Solution](<1702A - Round Down the Price/main.cpp>) |
+| [1702B - Polycarp Writes a String from Memory](https://codeforces.com/contest/810/problem/B)| [Solution](<1702B - Polycarp Writes a String from Memory/main.cpp>) |
+| [1702C - Train and Queries](https://codeforces.com/contest/810/problem/B)| [Solution](<1702C - Train and Queries/main.cpp>) |
+| [189A - Cut Ribbon](https://codeforces.com/contest/810/problem/B)| [Solution](<189A - Cut Ribbon/main.cpp>) |
+| [208A - Dubstep](https://codeforces.com/contest/810/problem/B)| [Solution](<208A - Dubstep/main.cpp>) |
+| [219A - k-String](https://codeforces.com/contest/810/problem/B)| [Solution](<219A - k-String/main.cpp>) |
+| [221A - Little Elephant and Function](https://codeforces.com/contest/810/problem/B)| [Solution](<221A - Little Elephant and Function/main.cpp>) |
+| [227B - Effective Approach](https://codeforces.com/contest/810/problem/B)| [Solution](<227B - Effective Approach/main.cpp>) |
+| [231A - Team](https://codeforces.com/contest/810/problem/B)| [Solution](<231A - Team/main.cpp>) |
+| [236A - Boy or Girl](https://codeforces.com/contest/810/problem/B)| [Solution](<236A - Boy or Girl/main.cpp>) |
+| [263A - Beautiful Matrix](https://codeforces.com/contest/810/problem/B)| [Solution](<263A - Beautiful Matrix/main.cpp>) |
+| [266A - Stones on the Table](https://codeforces.com/contest/810/problem/B)| [Solution](<266A - Stones on the Table/main.cpp>) |
+| [268A - Games](https://codeforces.com/contest/810/problem/B)| [Solution](<268A - Games/main.cpp>) |
+| [270A - Fancy Fence](https://codeforces.com/contest/810/problem/B)| [Solution](<270A - Fancy Fence/main.cpp>) |
+| [31A - Worms Evolution](https://codeforces.com/contest/810/problem/B)| [Solution](<31A - Worms Evolution/main.cpp>) |
+| [342A - Xenia and Divisors](https://codeforces.com/contest/810/problem/B)| [Solution](<342A - Xenia and Divisors/main.cpp>) |
+| [344A - Magnets](https://codeforces.com/contest/810/problem/B)| [Solution](<344A - Magnets/main.cpp>) |
+| [381A - Sereja and Dima](https://codeforces.com/contest/810/problem/B)| [Solution](<381A - Sereja and Dima/main.cpp>) |
+| [405A - Gravity Flip](https://codeforces.com/contest/810/problem/B)| [Solution](<405A - Gravity Flip/main.cpp>) |
+| [427A - Police Recruits](https://codeforces.com/contest/810/problem/B)| [Solution](<427A - Police Recruits/main.cpp>) |
+| [431A - Black Square](https://codeforces.com/contest/810/problem/B)| [Solution](<431A - Black Square/main.cpp>) |
+| [445A - DZY Loves Chessboard](https://codeforces.com/contest/810/problem/B)| [Solution](<445A - DZY Loves Chessboard/main.cpp>) |
+| [451B - Sort the Array](https://codeforces.com/contest/810/problem/B)| [Solution](<451B - Sort the Array/main.cpp>) |
+| [463B - Caisa and Pylons](https://codeforces.com/contest/810/problem/B)| [Solution](<463B - Caisa and Pylons/main.cpp>) |
+| [47B - Coins](https://codeforces.com/contest/810/problem/B)| [Solution](<47B - Coins/main.cpp>) |
+| [535B - Tavas and SaDDas](https://codeforces.com/contest/810/problem/B)| [Solution](<535B - Tavas and SaDDas/main.cpp>) |
+| [567A - Lineland Mail](https://codeforces.com/contest/810/problem/B)| [Solution](<567A - Lineland Mail/main.cpp>) |
+| [59A - Word](https://codeforces.com/contest/810/problem/B)| [Solution](<59A - Word/main.cpp>) |
+| [677A - Vanya and Fence](https://codeforces.com/contest/810/problem/B)| [Solution](<677A - Vanya and Fence/main.cpp>) |
+| [686A - Free Ice Cream](https://codeforces.com/contest/810/problem/B)| [Solution](<686A - Free Ice Cream/main.cpp>) |
+| [6B - President's Office](https://codeforces.com/contest/810/problem/B)| [Solution](<6B - President's Office/main.cpp>) |
+| [731A - Night at the Museum](https://codeforces.com/contest/810/problem/B)| [Solution](<731A - Night at the Museum/main.cpp>) |
+| [732A - Buy a Shovel](https://codeforces.com/contest/810/problem/B)| [Solution](<732A - Buy a Shovel/main.cpp>) |
+| [734A - Anton and Danik](https://codeforces.com/contest/810/problem/B)| [Solution](<734A - Anton and Danik/main.cpp>) |
+| [770A - New Password](https://codeforces.com/contest/810/problem/B)| [Solution](<770A - New Password/main.cpp>) |
+| [787A - The Monster](https://codeforces.com/contest/810/problem/B)| [Solution](<787A - The Monster/main.cpp>) |
+| [78B - Easter Eggs](https://codeforces.com/contest/810/problem/B)| [Solution](<78B - Easter Eggs/main.cpp>) |
+| [791A - Bear and Big Brother](https://codeforces.com/contest/810/problem/B)| [Solution](<791A - Bear and Big Brother/main.cpp>) |
+| [810B - Summer selloff](https://codeforces.com/contest/810/problem/B)| [Solution](<810B - Summer selloff/main.cpp>) || [102B - Sum of Digits](https://codeforces.com/contest/129/problem/B)| [Solution](<102B - Sum of Digits/main.cpp>) |
+| [112A - Petya and Strings](https://codeforces.com/contest/129/problem/B)| [Solution](<112A - Petya and Strings/main.cpp>) |
+| [1141A - Game 23](https://codeforces.com/contest/129/problem/B)| [Solution](<1141A - Game 23/main.cpp>) |
+| [121A - Lucky Sum](https://codeforces.com/contest/129/problem/B)| [Solution](<121A - Lucky Sum/main.cpp>) |
+| [129B - Students and Shoelaces](https://codeforces.com/contest/129/problem/B)| [Solution](<129B - Students and Shoelaces/main.cpp>) |
+| [1362B - Johnny and His Hobbies](https://codeforces.com/contest/129/problem/B)| [Solution](<1362B - Johnny and His Hobbies/main.cpp>) |
+| [152B - Steps](https://codeforces.com/contest/129/problem/B)| [Solution](<152B - Steps/main.cpp>) |
+| [1543B - Customising the Track](https://codeforces.com/contest/129/problem/B)| [Solution](<1543B - Customising the Track/main.cpp>) |
+| [160B - Unlucky Ticket](https://codeforces.com/contest/129/problem/B)| [Solution](<160B - Unlucky Ticket/main.cpp>) |
+| [1617B - GCD Problem](https://codeforces.com/contest/129/problem/B)| [Solution](<1617B - GCD Problem/main.cpp>) |
+| [16B - Burglar and Matches](https://codeforces.com/contest/129/problem/B)| [Solution](<16B - Burglar and Matches/main.cpp>) |
+| [1702A - Round Down the Price](https://codeforces.com/contest/129/problem/B)| [Solution](<1702A - Round Down the Price/main.cpp>) |
+| [1702B - Polycarp Writes a String from Memory](https://codeforces.com/contest/129/problem/B)| [Solution](<1702B - Polycarp Writes a String from Memory/main.cpp>) |
+| [1702C - Train and Queries](https://codeforces.com/contest/129/problem/B)| [Solution](<1702C - Train and Queries/main.cpp>) |
+| [189A - Cut Ribbon](https://codeforces.com/contest/129/problem/B)| [Solution](<189A - Cut Ribbon/main.cpp>) |
+| [208A - Dubstep](https://codeforces.com/contest/129/problem/B)| [Solution](<208A - Dubstep/main.cpp>) |
+| [219A - k-String](https://codeforces.com/contest/129/problem/B)| [Solution](<219A - k-String/main.cpp>) |
+| [221A - Little Elephant and Function](https://codeforces.com/contest/129/problem/B)| [Solution](<221A - Little Elephant and Function/main.cpp>) |
+| [227B - Effective Approach](https://codeforces.com/contest/129/problem/B)| [Solution](<227B - Effective Approach/main.cpp>) |
+| [231A - Team](https://codeforces.com/contest/129/problem/B)| [Solution](<231A - Team/main.cpp>) |
+| [236A - Boy or Girl](https://codeforces.com/contest/129/problem/B)| [Solution](<236A - Boy or Girl/main.cpp>) |
+| [263A - Beautiful Matrix](https://codeforces.com/contest/129/problem/B)| [Solution](<263A - Beautiful Matrix/main.cpp>) |
+| [266A - Stones on the Table](https://codeforces.com/contest/129/problem/B)| [Solution](<266A - Stones on the Table/main.cpp>) |
+| [268A - Games](https://codeforces.com/contest/129/problem/B)| [Solution](<268A - Games/main.cpp>) |
+| [270A - Fancy Fence](https://codeforces.com/contest/129/problem/B)| [Solution](<270A - Fancy Fence/main.cpp>) |
+| [31A - Worms Evolution](https://codeforces.com/contest/129/problem/B)| [Solution](<31A - Worms Evolution/main.cpp>) |
+| [342A - Xenia and Divisors](https://codeforces.com/contest/129/problem/B)| [Solution](<342A - Xenia and Divisors/main.cpp>) |
+| [344A - Magnets](https://codeforces.com/contest/129/problem/B)| [Solution](<344A - Magnets/main.cpp>) |
+| [381A - Sereja and Dima](https://codeforces.com/contest/129/problem/B)| [Solution](<381A - Sereja and Dima/main.cpp>) |
+| [405A - Gravity Flip](https://codeforces.com/contest/129/problem/B)| [Solution](<405A - Gravity Flip/main.cpp>) |
+| [427A - Police Recruits](https://codeforces.com/contest/129/problem/B)| [Solution](<427A - Police Recruits/main.cpp>) |
+| [431A - Black Square](https://codeforces.com/contest/129/problem/B)| [Solution](<431A - Black Square/main.cpp>) |
+| [445A - DZY Loves Chessboard](https://codeforces.com/contest/129/problem/B)| [Solution](<445A - DZY Loves Chessboard/main.cpp>) |
+| [451B - Sort the Array](https://codeforces.com/contest/129/problem/B)| [Solution](<451B - Sort the Array/main.cpp>) |
+| [463B - Caisa and Pylons](https://codeforces.com/contest/129/problem/B)| [Solution](<463B - Caisa and Pylons/main.cpp>) |
+| [47B - Coins](https://codeforces.com/contest/129/problem/B)| [Solution](<47B - Coins/main.cpp>) |
+| [535B - Tavas and SaDDas](https://codeforces.com/contest/129/problem/B)| [Solution](<535B - Tavas and SaDDas/main.cpp>) |
+| [567A - Lineland Mail](https://codeforces.com/contest/129/problem/B)| [Solution](<567A - Lineland Mail/main.cpp>) |
+| [59A - Word](https://codeforces.com/contest/129/problem/B)| [Solution](<59A - Word/main.cpp>) |
+| [677A - Vanya and Fence](https://codeforces.com/contest/129/problem/B)| [Solution](<677A - Vanya and Fence/main.cpp>) |
+| [686A - Free Ice Cream](https://codeforces.com/contest/129/problem/B)| [Solution](<686A - Free Ice Cream/main.cpp>) |
+| [6B - President's Office](https://codeforces.com/contest/129/problem/B)| [Solution](<6B - President's Office/main.cpp>) |
+| [731A - Night at the Museum](https://codeforces.com/contest/129/problem/B)| [Solution](<731A - Night at the Museum/main.cpp>) |
+| [732A - Buy a Shovel](https://codeforces.com/contest/129/problem/B)| [Solution](<732A - Buy a Shovel/main.cpp>) |
+| [734A - Anton and Danik](https://codeforces.com/contest/129/problem/B)| [Solution](<734A - Anton and Danik/main.cpp>) |
+| [770A - New Password](https://codeforces.com/contest/129/problem/B)| [Solution](<770A - New Password/main.cpp>) |
+| [787A - The Monster](https://codeforces.com/contest/129/problem/B)| [Solution](<787A - The Monster/main.cpp>) |
+| [78B - Easter Eggs](https://codeforces.com/contest/129/problem/B)| [Solution](<78B - Easter Eggs/main.cpp>) |
+| [791A - Bear and Big Brother](https://codeforces.com/contest/129/problem/B)| [Solution](<791A - Bear and Big Brother/main.cpp>) |
+| [810B - Summer selloff](https://codeforces.com/contest/129/problem/B)| [Solution](<810B - Summer selloff/main.cpp>) |
