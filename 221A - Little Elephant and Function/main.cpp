@@ -1,3 +1,4 @@
+//https://codeforces.com/problemset/problem/221/A
 #include <bits/stdc++.h>
 using namespace std;
 vector<int>a;
