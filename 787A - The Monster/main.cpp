@@ -1,3 +1,4 @@
+//https://codeforces.com/problemset/problem/787/A
 #include <bits/stdc++.h>
 using namespace std;
 bool is_integer(float k)
