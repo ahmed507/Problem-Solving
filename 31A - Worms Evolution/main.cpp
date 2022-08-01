@@ -1,3 +1,4 @@
+//https://codeforces.com/problemset/problem/31/A
 #include <bits/stdc++.h>
 using namespace std;
 vector<int> sol(int n,vector<int>a){
