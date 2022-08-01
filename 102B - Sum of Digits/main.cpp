@@ -1,3 +1,4 @@
+//https://codeforces.com/problemset/problem/102/B
 #include <iostream>
 using namespace std;
 typedef long long int ll;
