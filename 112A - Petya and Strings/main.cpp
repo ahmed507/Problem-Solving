@@ -1,3 +1,4 @@
+//https://codeforces.com/problemset/problem/112/A
 #include <bits/stdc++.h>
 using namespace std;
 int sol(string s1,string s2){
