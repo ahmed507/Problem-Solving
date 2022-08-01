@@ -1,3 +1,4 @@
+//https://codeforces.com/problemset/problem/1362/B
 #include <bits/stdc++.h>
 
 using namespace std;
@@ -9,7 +10,6 @@ int sol(){
         cin>>s;
         S.push_back(s);
     }
-//    double dd = *max_element(S.begin(),S.end());
     for (int j = 1; j <= 1024; ++j) {
         cnt = 0;
         for (int k = 0; k < n; ++k) {
