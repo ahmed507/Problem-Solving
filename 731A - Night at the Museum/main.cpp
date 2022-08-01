@@ -1,3 +1,4 @@
+//https://codeforces.com/problemset/problem/731/A
 #include <bits/stdc++.h>
 using namespace std;
 //a = 97
